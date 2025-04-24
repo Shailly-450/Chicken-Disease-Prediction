@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sahil00016/5G_Group_Projectstatic/css/main.6dea0f05.chunk.css",
+    "main.js": "/sahil00016/5G_Group_Projectstatic/js/main.eeb27659.chunk.js",
+    "main.js.map": "/sahil00016/5G_Group_Projectstatic/js/main.eeb27659.chunk.js.map",
+    "runtime-main.js": "/sahil00016/5G_Group_Projectstatic/js/runtime-main.22cb889e.js",
+    "runtime-main.js.map": "/sahil00016/5G_Group_Projectstatic/js/runtime-main.22cb889e.js.map",
+    "static/css/2.3916efa1.chunk.css": "/sahil00016/5G_Group_Projectstatic/css/2.3916efa1.chunk.css",
+    "static/js/2.59843a2e.chunk.js": "/sahil00016/5G_Group_Projectstatic/js/2.59843a2e.chunk.js",
+    "static/js/2.59843a2e.chunk.js.map": "/sahil00016/5G_Group_Projectstatic/js/2.59843a2e.chunk.js.map",
+    "static/js/3.a344dcdc.chunk.js": "/sahil00016/5G_Group_Projectstatic/js/3.a344dcdc.chunk.js",
+    "static/js/3.a344dcdc.chunk.js.map": "/sahil00016/5G_Group_Projectstatic/js/3.a344dcdc.chunk.js.map",
+    "index.html": "/sahil00016/5G_Group_Projectindex.html",
+    "static/css/2.3916efa1.chunk.css.map": "/sahil00016/5G_Group_Projectstatic/css/2.3916efa1.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/sahil00016/5G_Group_Projectstatic/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.59843a2e.chunk.js.LICENSE.txt": "/sahil00016/5G_Group_Projectstatic/js/2.59843a2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22cb889e.js",
+    "static/css/2.3916efa1.chunk.css",
+    "static/js/2.59843a2e.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.eeb27659.chunk.js"
+  ]
+}
