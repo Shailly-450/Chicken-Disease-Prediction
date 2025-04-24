@@ -4,11 +4,21 @@ __pycache__/
 *.pyc
 *.pyo
 temp/
+# Ignore virtual environments
+chicken-env/
+tf-env/
+.env/
+.venv/
+
 
 # Node.js (Frontend - React)
 node_modules/
 .npm/
-.env
+chicken_disease_model.h5
+my_model.h5
+my_model.pkl
+train_data.csv
+
 
 # Logs
 logs/
