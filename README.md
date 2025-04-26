@@ -156,4 +156,4 @@ _This project is currently unlicensed. Please add a license if open-sourcing._
 
 ## 📬 Contact
 
-For issues, suggestions, or contributions, please [open an issue](https://github.com/your-repo/issues).
+For issues, suggestions, or contributions, please [open an issue](https://github.com/your-repo/issues)
